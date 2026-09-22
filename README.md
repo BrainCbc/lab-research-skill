@@ -1,6 +1,6 @@
 # Lab Research DNA Skill v1.0.1
 
-把课题组 44 篇论文的 Stage 3 蒸馏成果（13 条 Research DNA）工程化为可执行的科研助手技能。
+把课题组论文进行蒸馏与成果工程化为可执行的科研助手技能。
 
 ## 知识来源（冻结）
 - Stage 3 `lab_research_dna.md / .json`（13 条 DNA：DNA-01~DNA-13）
