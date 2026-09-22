@@ -40,7 +40,7 @@ C:\Users\<你的用户名>\.agents\skills\lab-research-dna\
 ### 从 GitHub clone 到全局 Skill 目录
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPO>.git ~/.agents/skills/lab-research-dna
+git clone https://github.com/BrainCbc/lab-research-skill.git ~/.agents/skills/lab-research-dna
 ```
 
 Skill 为自包含版本，不依赖 Muse workspace 或其他绝对路径。安装/更新后若 Codex 未立即显示，重启 Codex。
