@@ -1,0 +1,1 @@
+{"capability":"innovation_generation","constraint":"移动端实际部署场景","predecessors":["P012（跨设备生成/域迁移）","P031（隐私联邦+身份/环境解耦）","P029（噪声抑制+身份保持）"],"research_line":"RL6 掌纹识别"}

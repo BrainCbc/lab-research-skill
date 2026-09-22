@@ -1,0 +1,45 @@
+﻿line_id,line_name,paper_id,year,title
+RL1,Dynamic Functional Brain Network Representation and Spatio-Temporal Modeling,P003,2022,Stacked Topological Preserving Dynamic Brain Networks Representation and Classification
+RL1,Dynamic Functional Brain Network Representation and Spatio-Temporal Modeling,P015,2024,Ordinal Pattern Tree: A New Representation Method for Brain Network Analysis
+RL1,Dynamic Functional Brain Network Representation and Spatio-Temporal Modeling,P020,2024,Spatio-Temporal Graph Hubness Propagation Model for Dynamic Brain Network Classification
+RL1,Dynamic Functional Brain Network Representation and Spatio-Temporal Modeling,P022,2025,NeuroH-TGL: Neuro-Heterogeneity Guided Temporal Graph Learning Strategy for Brain Disease Diagnosis
+RL1,Dynamic Functional Brain Network Representation and Spatio-Temporal Modeling,P024,2025,Long-Interval Spatio-Temporal Graph Convolution for Brain Disease Diagnosis
+RL1,Dynamic Functional Brain Network Representation and Spatio-Temporal Modeling,P025,2025,Spatio-Temporal Evolutionary Graph Learning for Brain Network Analysis Using Medical Imaging
+RL1,Dynamic Functional Brain Network Representation and Spatio-Temporal Modeling,P026,2025,Interpretable Dynamic Brain Network Analysis With Functional and Structural Priors
+RL1,Dynamic Functional Brain Network Representation and Spatio-Temporal Modeling,P030,2025,Enhancing Neurodegenerative Disease Diagnosis Through Confidence-Driven Dynamic Spatio-Temporal Convolutional Network
+RL1,Dynamic Functional Brain Network Representation and Spatio-Temporal Modeling,P040,2026,Spatio-Temporal Hypergraph Attention Networks for Brain Disease Analysis
+RL2,Multi-Modal Brain Disease Diagnosis and Fusion,P002,2022,Multimodal Triplet Attention Network for Brain Disease Diagnosis
+RL2,Multi-Modal Brain Disease Diagnosis and Fusion,P006,2023,MSTGC: Multi-Channel Spatio-Temporal Graph Convolution Network for Multi-Modal Brain Networks Fusion
+RL2,Multi-Modal Brain Disease Diagnosis and Fusion,P009,2023,A Cognitive-Driven Ordinal Preservation for Multimodal Imbalanced Brain Disease Diagnosis
+RL2,Multi-Modal Brain Disease Diagnosis and Fusion,P010,2023,Multi-Modal Non-Euclidean Brain Network Analysis With Community Detection and Convolutional Autoencoder
+RL2,Multi-Modal Brain Disease Diagnosis and Fusion,P014,2023,Deep Multi-Modal Discriminative and Interpretability Network for Alzheimer&#x2019;s Disease Diagnosis
+RL2,Multi-Modal Brain Disease Diagnosis and Fusion,P023,2025,Multi-Modal Brain Network Fusion for Intelligent Diagnostic Devices
+RL2,Multi-Modal Brain Disease Diagnosis and Fusion,P036,2026,Adjacent-Aware Modality Recovery Based on Incomplete Multi-Modal Brain Disease Diagnosis
+RL3,"Multi-Site / Cross-Site Brain Generalization, Adaptation and Federated Learning",P007,2023,Self-Supervised Federated Adaptation for Multi-Site Brain Disease Diagnosis
+RL3,"Multi-Site / Cross-Site Brain Generalization, Adaptation and Federated Learning",P008,2023,Multi-Discriminator Active Adversarial Network for Multi-Center Brain Disease Diagnosis
+RL3,"Multi-Site / Cross-Site Brain Generalization, Adaptation and Federated Learning",P039,2026,Prototypical Representation Learning for Multi-Site Domain Generalization in Schizophrenia Diagnosis
+RL3,"Multi-Site / Cross-Site Brain Generalization, Adaptation and Federated Learning",P042,2026,Hash Prototype Personalized Federated Learning for Multi-Site Brain Network Analysis
+RL3,"Multi-Site / Cross-Site Brain Generalization, Adaptation and Federated Learning",P044,2026,A Unified Graph Domain Adaptation Framework for Cross-Site Brain Network Analysis
+RL4,Multi-Modal Emotion / Cross-Subject Trustworthy Physiological Recognition,P018,2024,Dynamic Confidence-Aware Multi-Modal Emotion Recognition
+RL4,Multi-Modal Emotion / Cross-Subject Trustworthy Physiological Recognition,P027,2025,Multimodal Discriminative Network for Emotion Recognition Across Individuals
+RL4,Multi-Modal Emotion / Cross-Subject Trustworthy Physiological Recognition,P033,2025,HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning
+RL4,Multi-Modal Emotion / Cross-Subject Trustworthy Physiological Recognition,P035,2025,Multi-Modal Cross-Subject Emotion Feature Alignment and Recognition With EEG and Eye Movements
+RL4,Multi-Modal Emotion / Cross-Subject Trustworthy Physiological Recognition,P043,2026,Heterogeneous Modality Dynamic Trustworthy Fusion Network for Cross-Subject Sleep Stage Classification
+RL5,EEG Visual Decoding and EEG Biometrics,P028,2025,ViEEG: Hierarchical Visual Neural Representation for EEG Brain Decoding
+RL5,EEG Visual Decoding and EEG Biometrics,P034,2025,Disentangled Representation Learning for Robust Brainprint Recognition
+RL5,EEG Visual Decoding and EEG Biometrics,P041,2026,FSDBN: Foreground-Aware EEG-Visual Alignment via Dynamic Brain Networks
+RL6,"Palmprint Biometrics: Cross-Device, Robustness and Image Quality",P012,2023,Contactless Palmprint Image Recognition Across Smartphones With Self-Paced CycleGAN
+RL6,"Palmprint Biometrics: Cross-Device, Robustness and Image Quality",P013,2023,Multi-Spectral Palmprints Joint Attack and Defense With Adversarial Examples Learning
+RL6,"Palmprint Biometrics: Cross-Device, Robustness and Image Quality",P017,2024,Dense Hybrid Attention Network for Palmprint Image Super-Resolution
+RL6,"Palmprint Biometrics: Cross-Device, Robustness and Image Quality",P029,2025,PalmMamba: Palm Intrinsic Features Learning Selective State Space Model for Palmprint Image Denoising
+RL6,"Palmprint Biometrics: Cross-Device, Robustness and Image Quality",P031,2025,AdaptPFL: Unlocking Cross-Device Palmprint Recognition via Adaptive Personalized Federated Learning with Feature Decoupling
+RL6,"Palmprint Biometrics: Cross-Device, Robustness and Image Quality",P038,2026,Learning Multilayer Feature Projection for Homogeneous and Heterogeneous Palmprint Recognition
+RL7,Digital Pathology and Multi-Omics Cancer Analysis,P004,2023,Characterizing the Survival-Associated Interactions Between Tumor-Infiltrating Lymphocytes and Tumors From Pathological Images and Multi-Omics Data
+RL7,Digital Pathology and Multi-Omics Cancer Analysis,P005,2023,FAM3L: Feature-Aware Multi-Modal Metric Learning for Integrative Survival Analysis of Human Cancers
+RL7,Digital Pathology and Multi-Omics Cancer Analysis,P016,2024,Multi-Instance Multi-Task Learning for Joint Clinical Outcome and Genomic Profile Predictions From the Histopathological Images
+SATELLITE,Independent / satellite works,P001,2022,Weighted Correlation Embedding Learning for Domain Adaptation
+SATELLITE,Independent / satellite works,P011,2023,Semi-Supervised Multi-View Fusion for Identifying CAP and COVID-19 With Unlabeled CT Images
+SATELLITE,Independent / satellite works,P019,2024,Discriminative Domain Adaption Network for Simultaneously Removing Batch Effects and Annotating Cell Types in Single-Cell RNA-Seq
+SATELLITE,Independent / satellite works,P021,2025,Deep Multi-View Contrastive Clustering via Graph Structure Awareness
+SATELLITE,Independent / satellite works,P032,2025,A Cluster Tree Network for Image Super-Resolution
+SATELLITE,Independent / satellite works,P037,2026,Learning to estimate 3D hand pose from depth image

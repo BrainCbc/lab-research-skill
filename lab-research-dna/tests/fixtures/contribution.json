@@ -1,0 +1,1 @@
+{"capability":"contribution_check","claims":["首次将超图神经网络用于睡眠分期","在三个睡眠数据集上超过现有方法 2%","提出了模态-被试双层不确定性建模"],"predecessors":["P043（跨被试可信睡眠融合，含 modality/subject/temporal/sample 不确定性）"]}

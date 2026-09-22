@@ -1,0 +1,1 @@
+{"capability":"generalization_claim_check","claim":"模型在没见过的采集设备上表现很好","setup":"训练时用了目标设备的无标签数据做对齐，测试在该设备有标签数据上进行"}
